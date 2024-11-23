@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "15585280220",
+    "firebase_url": "https://solus-ham-default-rtdb.firebaseio.com",
+    "project_id": "solus-ham",
+    "storage_bucket": "solus-ham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15585280220:android:63b77a7825ac64b50c7419",
+        "android_client_info": {
+          "package_name": "com.example.mixnfeast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15585280220-t6ru84dc81d4kbcorscp2r0b4hbaoq24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrjIbnWUNM_6k4kI4DzLKrOvV8jTRcT9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15585280220-t6ru84dc81d4kbcorscp2r0b4hbaoq24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15585280220:android:eaf43b90512f20030c7419",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.firebaseauthdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15585280220-t6ru84dc81d4kbcorscp2r0b4hbaoq24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrjIbnWUNM_6k4kI4DzLKrOvV8jTRcT9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15585280220-t6ru84dc81d4kbcorscp2r0b4hbaoq24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
